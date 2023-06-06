@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A passionate frontend developer and competitive coderr</h3>
+<h3 align="center">A passionate frontend developer and competitive coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi8799&label=Profile%20views&color=0e75b6&style=flat" alt="khushi8799" /> </p>
 

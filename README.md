@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi8799&label=Profile%20views&color=0e75b6&style=flat" alt="khushi8799" /> </p>
 
-- 🌱 I’m currently learning **frontend and backend development along with DSA**
+- 🌱 I’m currently learning **Web Development along with DSA**
 
 - 📫 How to reach me **khushisingh6661@gmail.com**
 
